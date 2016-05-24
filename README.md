@@ -1,2 +1,3 @@
 # hola-mundo
-Aprendiendo a utilizar github
+
+Muy buenas tardes soy John y estoy aprendiendo el mundo de la programacion 
